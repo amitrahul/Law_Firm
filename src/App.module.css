@@ -1,0 +1,9 @@
+.contentWrapper {
+  width: 1440px;
+  height: 700px;
+}
+.bodyWrapper {
+  width: 100%;
+  background: var(--color-lightBlack);
+  height: 100%;
+}

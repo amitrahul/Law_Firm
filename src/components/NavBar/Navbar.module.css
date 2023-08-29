@@ -1,0 +1,8 @@
+.navbar {
+  width: 1135px;
+  height: 60px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 53px 140px;
+}

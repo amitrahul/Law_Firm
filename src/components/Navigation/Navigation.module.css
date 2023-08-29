@@ -1,0 +1,10 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 431px;
+  height: 26px;
+  color: var(--color-white);
+  background-color: var(--color-black);
+  list-style-type: none;
+}

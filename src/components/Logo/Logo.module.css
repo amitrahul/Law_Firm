@@ -1,0 +1,15 @@
+.logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 143px;
+  height: 30.305px;
+}
+.logo1 {
+  width: 30.41px;
+  height: 30.305px;
+}
+.logo2 {
+  width: 101.305px;
+  height: 15.946px;
+}

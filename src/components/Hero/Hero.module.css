@@ -1,0 +1,73 @@
+.heroWrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+}
+
+.leftHero {
+  width: 571px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 36px;
+  margin-bottom: 145px;
+}
+.herosubHeading {
+  font-size: 66px;
+  font-weight: 700;
+  width: 571px;
+  height: 194px;
+}
+.leftHero p {
+  width: 560px;
+  height: 99px;
+  font-size: 18px;
+  font-weight: 500;
+  opacity: 0.3;
+  color: var(--color-white);
+}
+.button {
+  width: 438px;
+  height: 74px;
+  border-radius: 43px;
+  background-color: #201f1f;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 28px;
+}
+.btnleftPart {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  justify-content: space-evenly;
+}
+.btnText {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26.004px;
+  color: var(--color-white);
+}
+.icon {
+  width: 22px;
+  height: 22px;
+  padding: 2.75px 1.833px;
+}
+
+.herobtn {
+  width: 137px;
+  height: 62px;
+  border-radius: 43px;
+  background: #e3b748;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--color-black);
+}
+
+.heroimage {
+  width: 467.71px;
+  height: 544.709px;
+}
