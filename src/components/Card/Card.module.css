@@ -1,0 +1,61 @@
+.cardWrapper {
+  width: 359px;
+  height: 377px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background: var(--color-black);
+  display: flex;
+  flex-direction: column;
+}
+.imageWrapper {
+  height: 101px;
+  width: 101px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  margin: 28px 234px 248px 24px;
+}
+.ellipse {
+  width: 101px;
+  height: 101px;
+  stroke-width: 1.4px;
+  stroke: rgba(25, 25, 25, 0.1);
+}
+.gift {
+  width: 62px;
+  height: 62px;
+  padding: 7.75px 5.167px 5.258px 5.167px;
+  position: absolute;
+}
+.cardHeading {
+  width: 214px;
+  height: 24px;
+  font-size: 24px;
+  color: var(--color-white);
+  font-weight: 600;
+  line-height: 24px;
+  margin-top: -210px;
+  margin-left: 23px;
+}
+.cardText {
+  width: 293px;
+  height: 69px;
+  color: var(--color-white);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22.753px;
+  margin: 23px;
+  opacity: 0.3;
+}
+.cardBtn {
+  width: 121px;
+  height: 43px;
+  border-radius: 23.5px;
+  background-color: var(--color-btn);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22.753px;
+  color: var(--color-black);
+  margin-left: 23px;
+}

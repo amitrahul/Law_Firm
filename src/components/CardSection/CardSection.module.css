@@ -1,0 +1,22 @@
+.CardsWrapper {
+  width: 1339px;
+  height: 551px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.heading {
+  color: var(--color-white);
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77.232px;
+  width: 437px;
+  height: 77px;
+}
+.cards {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
