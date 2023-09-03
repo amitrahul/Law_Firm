@@ -1,5 +1,5 @@
 .CardsWrapper {
-  width: 1339px;
+  width: 93%;
   height: 551px;
   display: flex;
   flex-direction: column;
@@ -16,7 +16,7 @@
   height: 77px;
 }
 .cards {
-  width: 100%;
+  width: 85%;
   display: flex;
   justify-content: space-evenly;
 }

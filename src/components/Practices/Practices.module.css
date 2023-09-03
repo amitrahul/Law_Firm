@@ -1,0 +1,43 @@
+.practiceWrapper {
+  width: 93%;
+  height: 1228px;
+  background-color: var(--color-lightBlack);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 115px;
+}
+
+.practiceHeading {
+  width: 448px;
+  height: 77px;
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 77.23px;
+}
+.imageWrapper {
+  width: 85%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+.image {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  justify-content: flex-end;
+}
+.imageText {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  color: var(--color-white);
+  z-index: 10;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 37px;
+}

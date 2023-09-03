@@ -1,8 +1,8 @@
 .introWrapper {
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  width: 1339px;
+  justify-content: space-evenly;
+  width: 93%;
 }
 .intro {
   color: var(--color-white);
@@ -11,7 +11,7 @@
   line-height: 87.222px;
   width: 387px;
   height: 174px;
-  margin: 230px 140px;
+  margin: 230px 177px;
 }
 .line {
   width: 1px;
