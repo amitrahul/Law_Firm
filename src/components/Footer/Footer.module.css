@@ -1,0 +1,35 @@
+.footerWrapper {
+  width: 1440px;
+  height: 367px;
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 100px;
+}
+.footerNavigate {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.socialMedia {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 20%;
+}
+.policy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  width: 94%;
+}
+
+.policyText {
+  color: var(--color-white);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}

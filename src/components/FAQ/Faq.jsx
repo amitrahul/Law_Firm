@@ -11,7 +11,6 @@ const Faq = () => {
           sint.
         </div>
       </div>
-      {/* <div className={styles.faqBody}> */}
       <div className={styles.right}>
         <div className={styles.rightHeading}>
           Do I need a personal injury report?
@@ -49,7 +48,6 @@ const Faq = () => {
           </div>
         </div>
       </div>
-      {/* </div> */}
     </div>
   );
 };
