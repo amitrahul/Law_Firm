@@ -1,0 +1,22 @@
+.teamWrapper {
+  width: 1440px;
+  height: 682px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.teamHeader {
+  width: 253px;
+  height: 77px;
+  color: var(--color-white);
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77.232px;
+}
+.teamPills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 85%;
+}
