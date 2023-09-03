@@ -1,0 +1,91 @@
+.faqWrapper {
+  width: 94%;
+  height: 629px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  margin-top: -75px;
+  gap: 30px;
+}
+.faqHeader {
+  color: var(--color-white);
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 74.532px;
+}
+/* .faqBody {
+  display: flex;
+  flex-direction: column;
+} */
+.leftText {
+  width: 370px;
+  height: 58px;
+  color: var(--color-white);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 29.254px;
+  opacity: 0.3;
+}
+.right {
+  width: 546px;
+  height: 540px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.rightHeading {
+  color: var(--color-white);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.rightText {
+  width: 557px;
+  height: 145px;
+  color: var(--color-white);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 29.254px;
+  opacity: 0.3;
+}
+
+.rightLine {
+  width: 539px;
+  height: 2px;
+  opacity: 0.05;
+  background: var(--color-white);
+}
+.rightpill {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.pillText {
+  color: var(--color-white);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+}
+.pillWrapper {
+  position: relative;
+}
+.pillImage {
+  width: 28px;
+  height: 28px;
+}
+.plusIcon {
+  color: var(--color-black);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  position: absolute;
+  margin-top: -30px;
+  margin-left: 9px;
+}
