@@ -3,6 +3,7 @@ import Hero from "./components/Hero/Hero";
 import Introduction from "./components/Introduction/Introduction";
 import CardSection from "./components/CardSection/CardSection";
 import Practices from "./components/Practices/Practices";
+import Clients from "./components/Clients/Clients";
 import styles from "./App.module.css";
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Introduction />
         <CardSection />
         <Practices />
+        <Clients />
       </div>
     </>
   );

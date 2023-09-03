@@ -1,0 +1,43 @@
+.ClientcardWrapper {
+  width: 359px;
+  height: 377px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background: var(--color-black);
+  display: flex;
+  flex-direction: column;
+}
+.person {
+  width: 105px;
+  height: 102px;
+  border-radius: 105px;
+  margin: 36px 228px 230px 26px;
+}
+
+.ClientcardHeading {
+  width: 214px;
+  height: 24px;
+  font-size: 24px;
+  color: var(--color-white);
+  font-weight: 600;
+  line-height: 24px;
+  margin-top: -210px;
+  margin-left: 23px;
+}
+.designation {
+  color: var(--color-white);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 26px;
+}
+.ClientcardText {
+  width: 263px;
+  height: 92px;
+  color: var(--color-white);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22.753px;
+  margin: 23px;
+  opacity: 0.3;
+}

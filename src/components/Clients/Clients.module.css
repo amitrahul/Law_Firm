@@ -1,0 +1,36 @@
+.ClientsWrapper {
+  width: 93%;
+  height: 626px;
+  background-color: var(--color-lightBlack);
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 90px;
+}
+.headerText {
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 77.232px;
+  color: var(--color-white);
+  width: 374px;
+  height: 154px;
+}
+.ClientsHeader {
+  display: flex;
+  justify-content: flex-end;
+  width: 89%;
+  gap: 552px;
+  align-items: center;
+}
+
+.arrow {
+  width: 200px;
+  height: 91.853px;
+}
+.clientsCard {
+  width: 90%;
+  display: flex;
+  justify-content: flex-end;
+  gap: 32px;
+}
